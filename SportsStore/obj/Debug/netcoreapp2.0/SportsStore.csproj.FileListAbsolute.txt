@@ -9,3 +9,13 @@ D:\WebSites\Test\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.Ass
 D:\WebSites\Test\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
 D:\WebSites\Test\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
 D:\WebSites\Test\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\projects\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
