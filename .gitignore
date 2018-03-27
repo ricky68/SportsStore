@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SportsStore/bin
+/SportsStore/obj
+/SportsStore/node_modules
