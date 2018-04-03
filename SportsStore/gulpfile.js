@@ -9,8 +9,17 @@ var deps = {
     "jquery": {
         "dist/*": ""
     },
+    "jquery-validation": {
+        "dist/*": ""
+    },
+    "jquery-validation-unobtrusive": {
+        "dist/*": ""
+    },
     "bootstrap": {
         "dist/**/*": ""
+    },
+    "font-awesome": {
+        "css/*": ""
     },
     // ...
 
